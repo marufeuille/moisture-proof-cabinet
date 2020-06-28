@@ -1,0 +1,3 @@
+export APIKEY=YOUR_MACHINIST_KEY
+export ENVIRONMENT=development
+export INTERVAL=300

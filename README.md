@@ -6,10 +6,24 @@
 - MD-3 is good, but offten forgot refresh MD-3.
 - So, need to notify when refresh is needed
 
-## Software
+## Requirements
+### Software
 - [Grove.py](https://github.com/Seeed-Studio/grove.py)
-## Hardware
+
+### Hardware
 - [Grove DHT11](https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/) x2
 - [Grove Magnetic Switch](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/)
 - [Grove Base Hat for Raspberry Pi](https://www.seeedstudio.com/Grove-Base-Hat-for-Raspberry-Pi.html)
 - Raspberry Pi
+
+### SaaS
+- [Machinist](https://app.machinist.iij.jp/) for collect and visualize data.
+
+## Usage
+- set up your sensor.
+- run command below.
+
+```bash
+. env.sh
+python3 main.py
+```
