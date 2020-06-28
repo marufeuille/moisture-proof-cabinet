@@ -3,8 +3,8 @@
 
 ## Motivation
 - I used Dry box with [MD-3](http://www.toyoliving.co.jp/products-info-other/MD-3-1.html) for keep drying camera and supplies.
-- MD-3 is good, but offten forgot refresh MD-3.
-- So, need to notify when refresh is needed
+- MD-3 is desiccant which can refresh to plug in.
+- But I often forget to refresh MD-3, so need to notify!!
 
 ## Requirements
 ### Software
@@ -14,6 +14,7 @@
 - [Grove DHT11](https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/) x2
 - [Grove Magnetic Switch](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/)
 - [Grove Base Hat for Raspberry Pi](https://www.seeedstudio.com/Grove-Base-Hat-for-Raspberry-Pi.html)
+- Magnet (I bought [this one](https://www.amazon.co.jp/gp/product/B07ZGFT61B).)
 - Raspberry Pi
 
 ### SaaS
